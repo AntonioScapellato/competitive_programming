@@ -1,7 +1,7 @@
 # competitive_programming
-Competitive Programming
+by Antonio Scapellato
 
-## Data Structures
-## Sorting Algorithms
-## Binary Search
-## Graphs
+### Data Structures
+### Sorting Algorithms
+### Binary Search
+### Graphs
